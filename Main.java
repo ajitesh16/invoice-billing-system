@@ -30,7 +30,7 @@ public class Main {
             if (choice.equalsIgnoreCase("n")) break;
         }
 
-        invoice.printInvoice();
+        invoice.displayInvoice();
         sc.close();
     }
 }
