@@ -16,5 +16,4 @@ A Java-based project to manage invoices, customers, and billing efficiently.
 ## 🚀 How to Run
 1. Open this repository in **GitHub Codespaces** or clone it.
 2. Compile and run the Java files:
-javac Main.java
-java Main
+javac Main.java and java Main respectively.
